@@ -1,0 +1,16 @@
+{
+  "name": "boilerplate-parcel_ts-scss",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "aaaaayako <ay14110mpda@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "yarn dev",
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.23.7"
+  }
+}
